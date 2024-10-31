@@ -1,2 +1,2 @@
 ########## IP SERVER ##########
-IP narsdev.mc.in.th:22847
+IP narsdev2.mc.in.th:27999
